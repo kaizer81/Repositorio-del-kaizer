@@ -196,12 +196,8 @@ a:hover {
 	height: 190px;
 }
 -->
-</style><!--[if lte IE 7]>
-<style>
-.content { margin-right: -1px; } /* este margen negativo de 1 px puede situarse en cualquiera de las columnas de este diseño con el mismo efecto corrector. */
-ul.nav a { zoom: 1; }  /* la propiedad de zoom da a IE el desencadenante hasLayout que necesita para corregir el espacio en blanco extra existente entre los vínculos */
 </style>
-<![endif]--></head>
+</head>
 
 <body>
 
